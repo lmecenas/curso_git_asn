@@ -12,3 +12,5 @@ Curso realizado pelo professor  téo
 
 \### Episódio 02 - Instalação ambiente Mac
 
+### Episódio 03 - Instalação Linux
+
