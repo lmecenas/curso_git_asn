@@ -10,6 +10,5 @@ Curso realizado pelo professor  téo
 \### Episódio 01 - Instalacao Windows
 
 
-
-\### Episódio 02
+\### Episódio 02 - Instalação ambiente Mac
 
