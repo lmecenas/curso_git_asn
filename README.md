@@ -4,11 +4,10 @@ Curso realizado pelo professor  téo
 
 
 
-\## Aula 01
+\## Aula 01 - instalacao
 
 
-
-\### Episódio 01
+\### Episódio 01 - Instalacao Windows
 
 
 
